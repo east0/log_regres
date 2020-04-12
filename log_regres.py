@@ -114,6 +114,7 @@ def multi_test():
 		error_sum += colic_test()
 	print("after %d iterations the average error rate is: %f" % (num_tests, error_sum/float(num_tests)))
 
+print ("这是一个demo")
 
 
 
